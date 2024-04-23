@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028856086",
+    "project_id": "temp-f3ec4",
+    "storage_bucket": "temp-f3ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028856086:android:b0c931c9569baf6aac5837",
+        "android_client_info": {
+          "package_name": "com.temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh3Lcx3YVImaIZUJvNIt_zzYB2QVUVeT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
